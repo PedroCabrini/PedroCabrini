@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Pedro Cabrini 😁🖖
+## Bem-vindo(a) ao perfil do Pedro H. A. Cabrini 
 
  <div>
    <a href="https://github.com/PedroCabrini">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Caso queira entrar em contato comigo, segue as redes sociais abaixo.
+### Caso queira entrar em contato comigo, segue as redes sociais abaixo ⬇
  
 <div> 
   <a href="https://www.instagram.com/pe_cabrini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
